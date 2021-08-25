@@ -1,0 +1,32 @@
+yagoContextFacts:
+{'<hasCitationTitle>', '<hasGloss>', '<hasWikipediaAnchorText>'}
+
+yagoFacts:
+{'<exports>', '<directed>', '<wasBornIn>', '<participatedIn>', '<hasWebsite>', '<hasCurrency>', '<happenedIn>', '<worksAt>', '<hasCapital>', '<isKnownFor>', '<isAffiliatedTo>', '<imports>', '<isPoliticianOf>', '<playsFor>', '<hasGender>', '<influences>', '<hasNeighbor>', '<hasWonPrize>', '<isInterestedIn>', '<graduatedFrom>', '<edited>', '<hasMusicalRole>', '<isLeaderOf>', '<actedIn>', '<isConnectedTo>', '<dealsWith>', '<diedIn>', '<hasChild>', '<hasAcademicAdvisor>', '<livesIn>', '<isLocatedIn>', '<isCitizenOf>', '<hasOfficialLanguage>', '<created>', '<hasGloss>', '<owns>', '<wroteMusicFor>', '<isMarriedTo>'}
+
+yagoGeonamesOnlyData:
+{'<hasLatitude>', '<isLocatedIn>', 'rdfs:label', '<hasGeonamesEntityId>', '<hasGloss>', '<hasLongitude>'}
+
+yagoGeonamesType:
+{'<hasGloss>', 'rdf:type'}
+
+yagoLabels:
+{'skos:prefLabel', '<hasGivenName>', '<hasFamilyName>', '<redirectedFrom>', 'rdfs:label', '<isPreferredMeaningOf>', '<hasGloss>'}
+
+yagoRedirectLabels_fa:
+{'<hasGloss>', '<redirectedFrom>'}
+
+yagoSchema:
+{'<hasConfidence>', 'rdf:type', 'rdfs:range', 'rdfs:domain', 'rdfs:subPropertyOf', '<hasGloss>'}
+
+yagoSimpleTaxonomy:
+{'rdfs:subClassOf', '<hasGloss>', 'owl:disjointWith'}
+
+yagoTaxonomy:
+{'rdfs:subClassOf', '<hasGloss>'}
+
+yagoTypes:
+{'<hasGloss>', 'rdf:type'}
+
+yagoWikipediaInfo_fa:
+{'<linksTo>', '<hasGloss>', '<hasWikipediaUrl>'}

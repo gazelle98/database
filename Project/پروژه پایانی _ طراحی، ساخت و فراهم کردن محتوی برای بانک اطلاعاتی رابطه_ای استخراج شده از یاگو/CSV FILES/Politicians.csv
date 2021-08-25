@@ -1,0 +1,498 @@
+id	name	gender	born_in	die_in	fa_label
+1	Mohammad Ali Foroughi	male	Tehran	Tehran	محمدعلی فروغی
+2	حسن علی صارمی کلالی				حسن علی صارمی کلالی
+3	Massoud Mirza Zell e Soltan	male			ظل‌السلطان
+4	Mansoor Hekmat	male		London	منصور حکمت
+5	Alireza Ali Ahmadi	male	Isfahan		علیرضا علی‌احمدی
+6	حمید زنگنه				حمید زنگنه
+7	Kamran Bagheri Lankarani	male	Tehran		کامران باقری لنکرانی
+8	Davoud Soleymani	male			داوود سلیمانی
+9	Ali Khamenei	male	Mashhad		سید علی خامنه‌ای
+10	Ali Rabiei	male	Tehran		علی ربیعی
+11	غلامحسین خان سالار محتشم				غلامحسین خان سالار محتشم
+12	Ahmad Madani	male	Kerman	Denver	احمد مدنی
+13	Ali Akbar Salehi	male	Karbala		علی‌اکبر صالحی
+14	Hassan Pakravan	male	Tehran	Tehran	حسن پاکروان
+15	Ahmad Bourghani	male	Tehran	Tehran	احمد بورقانی
+16	Alireza Nourizadeh	male			علی‌رضا نوری‌زاده
+17	Keyhan Hashemnia	male			کیهان هاشم‌نیا
+18	Balami				ابوعلی بلعمی
+19	Vosough od Dowleh	male	Tehran	Tehran	حسن وثوق
+20	Mahmoud Jam				محمود جم
+21	Al Muqanna	male			مقنع
+22	Ali Akbar Velayati	male	Tehran		علی‌اکبر ولایتی
+23	ناصر ریگی				ناصر ر̯ی
+24	Ahmad Tavakkoli	male	Behshahr		احمد توکلی
+25	نصرالله فاطمی				نصرالله فاطمی
+26	Kazem Sami	male	Mashhad	Tehran	کاظم سامی
+27	Ezzatollah Sahabi	male	Tehran	Tehran	عزت‌الله سحابی
+28	علی‌اکبر طباطبایی				علی‌اکبر طباطبایی
+29	Ali Shakouri Rad	male			علی شکوری‌راد
+30	Mohammed Kazem Yazdi	male			سید محمدکاظم طباطبایی یزدی
+31	Keikhosrow Shahrokh	male			کیخسرو شاهرخ
+32	Rahman Dadman	male	Ardabil		رحمان دادمان
+33	Mohsen Kadivar	male			محسن کدیور
+34	Mojtaba Vahedi	male			مجتبی واحدی
+35	علی‌اکبر اشعری				علی‌اکبر اشعری
+36	Mehdi Bazargan	male	Tehran	Zürich	مهدی بازرگان
+37	Ali Meshkini	male	Meshginshahr	Tehran	علی مشکینی
+38	Javad Etaat				جواد اطاعت
+39	سعید رجائی خراسانی		Kerman	Kerman	سعید رجائی خراسانی
+40	حسین علیزاده (دیپلمات)				حسین علیزاده (دیپلمات)
+41	محمدرضا مخبر				محمدرضا مخبر
+42	Hassan Modarres	male			سید حسن مدرس
+43	Ahmad Qavam	male	Tehran	Tehran	احمد قوام
+44	Shamseddin Hosseini	male	Tonekabon		سید شمس‌الدین حسینی
+45	مهرداد پهلبد				مهرداد پهلبد
+46	Masoud Mir Kazemi	male	Tehran		مسعود میر کاظمی
+47	Ali Jannati	male			علی جنتی
+48	Shojaeddin Shafa				شجاع‌الدین شفا
+49	محمد اسلامی		Tehran		محمد اسلامی
+50	Mina Ahadi	female	Abhar		مینا احدی
+51	Mohsen Aminzadeh	male			محسن امین‌زاده
+52	محمد شریعتمداری		Tehran		محمد شریعتمداری
+53	Elias Hazrati	male	Hashtrud		الیاس حضرتی
+54	Hossein Pirnia				حسین پیرنیا
+55	احمد میرفندرسکی		Tehran		احمد میرفندرسکی
+56	Maryam Rajavi	female	Tehran		مریم رجوی
+57	Nader Shah	male			نادرشاه
+58	Safdar Hosseini	male			سید صفدر حسینی
+59	Jamshid Bahman Jamshidian				جمشید جمشیدیان
+60	Mahmoud Hessaby	male		Geneva	محمود حسابی
+61	ابوالحسن خان مشیرالملک				ابوالحسن خان مشیرالملک
+62	Ali Qoli Khan Bakhtiari	male			علیقلی خان سردار اسعد
+63	Ali Amini	male	Tehran	Paris	علی امینی
+64	تهمورس آدمیت		Tehran	Tehran	تهمورس آدمیت
+65	Mohsen Hashemi Rafsanjani		Kerman		محسن هاشمی رفسنجانی
+66	Morteza Motahhari	male	Fariman	Tehran	مرتضی مطهری
+67	Mehdi Qoli Hedayat	male	Tehran	Tehran	مهدی‌قلی هدایت
+68	Rashid al Din Hamadani	male			رشیدالدین فضل‌الله همدانی
+69	فیض‌الله عرب‌سرخی				فیض‌الله عرب‌سرخی
+70	فرامرز اسدی				فرامرز اسدی
+71	Morteza Alviri	male	Tehran		مرتضی الویری
+72	Mahmoud Vaezi	male			محمود واعظی
+73	Gholam Ali Haddad Adel	male	Tehran		غلامعلی حداد عادل
+74	Nizam al Mulk	male	Tus, Iran	Nahavand	نظام‌الملک
+75	Mojtaba Khamenei	male			سید مجتبی خامنه‌ای
+76	Mahmoud Alavi	male	Lamerd		سید محمود علوی
+77	Mirza Ali Asghar Khan Amin al Sultan		Tehran	Tehran	علی‌اصغر اتابک
+78	Hossein Kamali	male			حسین کمالی
+79	Mirza Abolhassan Khan Ilchi	male			ابوالحسن شیرازی
+80	es/Seyyed Abdollah Behbahaní				سید عبدالله بهبهانی
+81	هادی نژادحسینیان		Tehran		هادی نژادحسینیان
+82	میرزا محمدعلی سیوندی				میرزا محمدعلی سیوندی
+83	Faezeh Hashemi	female	Tehran		فائزه هاشمی رفسنجانی
+84	Ali Akbar Mousavi Khoeini	male			علی‌اکبر موسوی خوئینی
+85	Mohammad Salimi	male			محمد سلیمی
+86	Ghorbanali Dorri Najafabadi	male	Rey, Iran		قربانعلی دری نجف‌آبادی
+87	Sadeq Larijani	male	Najaf		صادق لاریجانی
+88	Tahmasb Mazaheri	male	Tehran		طهماسب مظاهری
+89	مهدی کلهر				مهدی کلهر
+90	Imam Quli Khan	male			امامقلی خان
+91	Ahmad Masjed Jamei	male	Tehran		احمد مسجدجامعی
+92	Ali Shariatmadari	male	Shiraz		علی شریعتمداری
+93	Mohammad Reza Mahdavi Kani	male	Tehran		محمدرضا مهدوی کنی
+94	Abbas Ahmad Akhoundi	male			عباس احمد آخوندی
+95	مجید آهی		Tehran	Tehran	مجید آهی
+96	Haji Baba Sheikh	male			حاجی باباشیخ
+97	Saeed Emami	male			سعید امامی
+98	Manouchehr Eghbal	male	Mashhad	Tehran	منوچهر اقبال
+99	Haji Washington	male			حسینقلی صدرالسلطنه
+100	Fazlollah Zahedi	male	Hamedan	Geneva	فضل‌الله زاهدی
+101	Amir Kabir	male	Arak, Iran	Kashan	امیرکبیر
+102	Ali Dashti	male			علی دشتی
+103	Rezā Shāh	male	Alasht	Johannesburg	رضاشاه
+104	ناصر سبحاني				ناصر سبحانی
+105	Fathollah Khan Akbar	male	Rasht	Tehran	فتح‌الله خان اکبر
+106	Ghaem Magham Farahani	male	Arak, Iran	Tehran	قائم‌مقام فراهانی
+107	Ziaeddin Tabatabaee	male	Shiraz	Tehran	سید ضیاءالدین طباطبایی
+108	Mohammad Mehdi Zahedi	male	Kerman		محمدمهدی زاهدی
+109	Kamal Kharazi	male	Tehran		کمال خرازی
+110	Azizkhan Mokri				عزیزخان مکری
+111	Javad Arianmanesh	male			جواد آرین منش
+112	احمد خان ملک ساسانی				احمد خان ملک ساسانی
+113	Abdul Karim Mousavi Ardebili	male	Ardabil		سید عبدالکریم موسوی اردبیلی
+114	Hassan Kazemi Qumi				حسن کاظمی قمی
+115	امیر مفخم بختیاری				امیر مفخم بختیاری
+116	عبدالقدیر آزاد				عبدالقدیر آزاد
+117	Ardeshir Zahedi	male	Tehran		اردشیر زاهدی
+118	Akbar Mohammadi (student)	male	Amol	Tehran	اکبر محمدی (فعال دانشجویی)
+119	Hussein Ali Montazeri	male	Najafabad	Qom	حسینعلی منتظری
+120	Yahya Ale Eshaq	male	Qom		یحیی آل‌اسحاق
+121	Nasser Hejazi	male	Tehran	Tehran	ناصر حجازی
+122	Ataollah Salehi	male	Tehran		سید عطاءالله صالحی
+123	محمدجواد فریدزاده				محمدجواد فریدزاده
+124	Ahmad Amir Ahmadi	male	Tehran	Tehran	احمد امیراحمدی
+125	اسدالله بادامچیان				اسدالله بادامچیان
+126	Nematollah Nassiri	male	Semnan, Iran	Tehran	نعمت‌الله نصیری
+127	Ahmad Sayyed Javadi	male	Qazvin	Tehran	احمد صدر حاج‌سیدجوادی
+128	Jamileh Kadivar	female	Fasa		جمیله کدیور
+129	عبدالرحیم گواهی				عبدالرحیم گواهی
+130	Akbar Mohammadi (student)	male	Amol	Tehran	اکبر محمدی
+131	Mohammad Ali Rajai	male	Qazvin	Tehran	محمدعلی رجایی
+132	روح‌الله قهرمانی چابک		Chaboksar		روح‌الله قهرمانی چابک
+133	Asghar Parsa	male	Khoy	Tehran	اصغر پارسا
+134	Amanullah Jahanbani	male			امان‌الله جهانبانی
+135	Asadollah Alam	male	Birjand	New York City	اسدالله علم
+136	Reza Malekzadeh	male			رضا ملک‌زاده
+137	منصور روحانی				منصور روحانی
+138	Sadegh Mahsouli	male	Urmia		صادق محصولی
+139	Mirza Nasrullah Khan	male		Tehran	نصرالله مشیرالدوله
+140	Hasan Arfa	male			حسن ارفع
+141	Mirza Mehdi Khan Astarabadi	male			میرزا مهدی استرآبادی
+142	Mohammad Saed	male	Maragheh	Tehran	محمد ساعد
+143	Ali Reza Asgari	male	Ardestan		علیرضا عسگری
+144	Ali Younesi	male	Nahavand		علی یونسی
+145	Mohammad Farrokhi Yazdi	male			محمد فرخی یزدی
+146	Gholam Reza Aghazadeh	male	Khoy		غلام‌رضا آقازاده
+147	Mohsen Rezaee	male	Masjed Soleyman		محسن رضایی
+148	Mahmoud Hashemi Shahroudi	male	Najaf		محمود هاشمی شاهرودی
+149	Ashraf Dehghani	female			اشرف دهقانی
+150	Elaheh Koulaei	female			الهه کولایی
+151	Hossein Saffar Harandi	male	Gorgan		محمدحسین صفار هرندی
+152	Ali Fallahian	male	Najafabad		علی فلاحیان
+153	Mehdi Hashemi	male	Isfahan		سید مهدی هاشمی
+154	حبیب‌الله عین‌الملک				حبیب‌الله عین‌الملک
+155	حجت‌الله ایوبی				حجت‌الله ایوبی
+156	Nasser Moghadam	male	Tehran	Tehran	ناصر مقدم
+157	Hashemi Rafsanjani		Bahreman		اکبر هاشمی رفسنجانی
+158	Karim Sanjabi	male	Kermanshah	Carbondale, Illinois	کریم سنجابی
+159	Abolhassan Banisadr	male	Hamedan		ابوالحسن بنی‌صدر
+160	Ali Akbar Nategh Nouri	male	Nur, Iran		علی‌اکبر ناطق‌نوری
+161	Sadeq Ganji				صادق گنجی
+162	Mohammad Yeganeh	male			محمد ̯انه
+163	حمید سیاح				حمید سیاح
+164	Ali Shayegan	male			علی شا̯ان
+165	Mostafa Moeen	male	Najafabad		مصطفی معین
+166	Ali Shamkhani	male	Ahvaz		علی شمخانی
+167	Heydar Moslehi	male	Shahreza		حیدر مصلحی
+168	Habibollah Bitaraf	male			حبیب‌الله بیطرف
+169	Morteza Agha Tehrani	male	Tiran, Iran		مرتضی آقاتهرانی
+170	Rasoul Khadem	male	Mashhad		رسول خادم
+171	Mohammad Saeedikia	male	Isfahan		محمد سعیدی‌کیا
+172	Hadi Khamenei	male			سید هادی خامنه‌ای
+173	Teymur Bakhtiar	male	Shahr e Kord		تیمور بختیار
+174	Mohsen Mirdamadi	male	Najafabad		محسن میردامادی
+175	Mohammad Khoshchehreh	male	Tehran		محمد خوش‌چهره
+176	Amir Reza Khadem	male			امیررضا خادم
+177	Masoumeh Ebtekar	female	Tehran		معصومه ابتکار
+178	Ahmad Motevaselian				احمد متوسلیان
+179	Majid Rahnema	male			مجید رهنما
+180	Mohammad Khatami	male	Ardakan		سید محمد خاتمی
+181	Hossein Ala	male	Tehran	Tehran	حسین علاء
+182	Abol Ghasem Kashani	male	Tehran	Tehran	سید ابوالقاسم کاشانی
+183	Abdolmalek Rigi	male		Tehran	عبدالمالک ر̯ی
+184	Qazi Muhammad	male	Mahabad	Mahabad	قاضی محمد
+185	Abdollah Javadi Amoli	male			عبدالله جوادی آملی
+186	Hassan Abbasi	male			حسن عباسی
+187	Ahmad Khomeini	male	Qom	Tehran	سید احمد خمینی
+188	Manuchehr Eliasi				منوچهر الیاسی
+189	Seyed Mehdi Miraboutalebi				سید مهدی میرابوطالبی
+190	Ashraf Pahlavi	female	Tehran		اشرف پهلوی
+191	ابوالقاسم خان بختیار				ابوالقاسم خان بختیار
+192	Mohammad Ali Najafi	male	Tehran		محمدعلی نجفی
+193	Mohsen Mehralizadeh	male	Maragheh		محسن مهرعلیزاده
+194	Mirza Malkam Khan	male	Isfahan	Rome	میرزا ملکم‌خان
+195	Mohsen Safaei Farahani	male			محسن صفایی فراهانی
+196	Massoud Rajavi	male	Tabas		مسعود رجوی
+197	Mohammad Reza Heydari	male			محمدرضا حیدری
+198	Feridoun Jam				فریدون جم
+199	Mirza Hosein Khan Moshir od Dowleh	male			میرزا حسین‌خان سپهسالار
+200	Gholamhossein Karbaschi	male	Tehran		غلامحسین کرباسچی
+201	Mohammad Reza Mirtajodini	male	Tabriz		سید محمدرضا میرتاج‌الدینی
+202	Piruz Dilanchi	male	Tehran		پیروز دیلنچی
+203	Ghasem Sholeh Saadi				قاسم شعله‌سعدی
+204	Hossein Kazemzadeh				حسین کاظم‌زاده ایرانشهر
+205	Mohammad Nahavandian	male	Tehran		محمد نهاوندیان
+206	Yahya Rahim Safavi	male	Isfahan		سید یحیی رحیم‌صفوی
+207	Jafar Towfighi	male			جعفر توفیقی
+208	Manouchehr Mottaki	male	Bandar e Gaz		منوچهر متکی
+209	Jalal Jalalizadeh	male			جلال جلالی‌زاده
+210	Abbas Foroughi Bastami				فروغی بسطامی
+211	Asadollah Bayat Zanjani	male			اسدالله بیات زنجانی
+212	جعفر بهبهانی				جعفر بهبهانی
+213	Ahmad Matin Daftari	male	Tehran	Tehran	احمد متین دفتری
+214	Sadegh Kharazi	male	Tehran		سید محمدصادق خرازی
+215	Mohammad Ali Khan Ala al Saltaneh				محمدعلی علاءالسلطنه
+216	ابوالفضل اسلامی				ابوالفضل اسلامی
+217	Hamid Sajjadi	male			حمید سجادی
+218	سید طاهر طاهری				سید طاهر طاهری
+219	Bahram Mavaddat	male	Tehran		بهرام مودت
+220	اسماعیل ططری				اسماعیل ططری
+221	Mohammad Bagher Nobakht	male	Rasht		محمدباقر نوبخت
+222	Mahmoud Ahmadinejad	male	Aradan, Iran		محمود احمدی‌نژاد
+223	Hossein Khan Sardar	male			حسینقلی خان سردار ایروانی
+224	Daud Khan Undiladze	male			داوود خان گرجی
+225	Ahmad Khorram	male	Isfahan		احمد خرم
+226	Alireza Zakani	male			علیرضا زاکانی
+227	Ahmad Ahmadi (philosopher)	male			احمد احمدی (نماینده مجلس)
+228	Reza Pahlavi	male	Tehran		رضا پهلوی
+229	Farah Pahlavi	female	Tehran		فرح پهلوی
+230	Bijan Namdar Zangeneh	male	Kermanshah		ب̘ن نامدار زنگنه
+231	Abdolhossein Hazhir	male	Kashan	Tehran	عبدالحسین هژیر
+232	Iradj Fazel	male	Ardestan		ایرج فاضل
+233	میرزا حسین اصفهانی				میرزا حسین اصفهانی
+234	Abdullah Entezam	male		Tehran	عبدالله انتظام
+235	Amir Mohebbian	male	Tehran		امیر محبیان
+236	Mostafa Kavakebian	male			مصطفی کواکبیان
+237	Abdollah Ramezanzadeh	male	Tehran		عبدالله رمضان‌زاده
+238	Ali Akbar Mohtashamipur	male	Tehran		علی‌اکبر محتشمی‌پور
+239	Hassan Habibi	male	Tehran		حسن حبیبی
+240	Cabinet of Iran	male			هیئت دولت ایران
+241	Mohammad Abbasi	male			محمد عباسی
+242	Ruhollah Khomeini	male	Khomeyn	Tehran	سید روح‌الله خمینی
+243	Ali Akbar Mehrabian	male			علی‌اکبر محرابیان
+244	Akbar Alami	male			اکبر اعلمی
+245	Iraj Pezeshkzad	male			ایرج پزشک‌زاد
+246	Ciamak Moresadegh	male			سیامک مره صدق
+247	Mohammad Ali Abtahi	male	Mashhad		محمدعلی ابطحی
+248	Ahmad Shirzad	male			احمد شیرزاد
+249	Mohammad Taqi Mesbah Yazdi	male	Yazd		محمدتقی مصباح یزدی
+250	Hushang Ansary	male	Ahvaz		هوشنگ انصاری
+251	Parviz Fattah	male	Urmia		پرویز فتاح
+252	Ataollah Mohajerani	male	Arak, Iran		عطاءالله مهاجرانی
+253	Ali Akbar Dehkhoda	male	Tehran		علی‌اکبر دهخدا
+254	Hassan Khomeini	male	Qom		سید حسن خمینی
+255	Sayyid Hossein Ardabili	male			سیدحسین اردبیلی
+256	Hassan Ayat	male			سید حسن آیت
+257	Reza Sheykholeslam	male	Chalus, Iran		عبدالرضا شیخ‌الاسلامی
+258	صفر لفوتی		Astaneh ye Ashrafiyeh		صفر لفوتی
+259	الیاس نادران		Shahrud, Iran		الیاس نادران
+260	سلطان محمد خان سردار اشجع				سلطان محمد خان سردار اشجع
+261	Hassan Rahimpour Azghadi	male			حسن رحیم‌پور ازغدی
+262	Mohammad Reza Ameli Tehrani	male	Tehran	Tehran	محمدرضا عاملی تهرانی
+263	احمد دهقان (نماینده مجلس)				احمد دهقان (نماینده مجلس)
+264	Ali Soheili	male	Tabriz	London	علی سهیلی
+265	Hamid Behbahani	male	Behbahan		حمید بهبهانی
+266	Mohsen Sadr	male	Mahallat	Tehran	محسن صدر
+267	Fatemeh Karroubi	female			فاطمه کروبی
+268	Saeed Jalili	male	Mashhad		سعید جلیلی
+269	Ali Asghar Soltanieh	male			علی‌اصغر سلطانیه
+270	Mohammad Hossein Adeli	male	Ahvaz		محمدحسین عادلی
+271	Mohsen Rafighdoost	male	Tehran		محسن رفیقدوست
+272	بهروز کمالوندی				بهروز کمالوندی
+273	Hassan Ali Mansur	male	Tehran	Tehran	حسنعلی منصور
+274	Emad Afroogh	male	Shiraz		عماد افروغ
+275	حسین علیزاده (دیپلمات)				حسین علیزاده
+276	Firouz Mirza Nosrat ed Dowleh Farman Farmaian III		Tehran	Semnan, Iran	فیروز فیروز
+277	Alaeddin Boroujerdi	male			علاءالدین بروجردی
+278	محمود فروغی				محمود فروغی
+279	Mostafa Pourmohammadi	male	Qom		مصطفی پورمحمدی
+280	زین‌العابدین رهنما				زین‌العابدین رهنما
+281	Dariush Forouhar	male	Isfahan	Tehran	داریوش فروهر
+282	Dariush Homayoon	male	Tehran	Geneva	داریوش همایون
+283	Mohammad Kazem Khorasani	male			محمدکاظم خراسانی
+284	Parviz Davoodi	male	Tehran		پرویز داوودی
+285	Mohammad Vaez Abaee Khorasani	male			محمد عبایی خراسانی
+286	سید علی‌رضا بهشتی شیرازی				سید علی‌رضا بهشتی شیرازی
+287	Majead Ansari	male	Kerman		مجید انصاری
+288	سید رضا فیروزآبادی				سید رضا فیروزآبادی
+289	Alireza Rajaei	male	Tehran		علیرضا رجایی
+290	یوسف خان امیر مجاهد				یوسف خان امیر مجاهد
+291	Davoud Danesh Jafari	male	Tehran		داوود دانش‌جعفری
+292	Gholam Hossein Mohseni Ejei	male	Isfahan		غلامحسین محسنی اژه‌ای
+293	Shapour Bakhtiar	male	Izeh	Paris	شاپور بختیار
+294	Alireza Marandi	male	Isfahan		علی‌رضا مرندی
+295	Haj Ali Razmara	male	Tehran		حاجی‌علی رزم‌آرا
+296	Hossein Fardoust	male			حسین فردوست
+297	Marzieh Hadidchi	female			مرضیه حدیدچی
+298	Morteza Qoli Bayat	male	Arak, Iran	Tehran	مرتضی‌قلی بیات
+299	Mohsen Armin	male			محسن آرمین
+300	Abbas Amir Entezam	male	Tehran		عباس امیرانتظام
+301	صفی قلی‌خان				صفی قلی‌خان
+302	Levon Davidian	male			لون داویدیان
+303	Ali Bagheri	male			علی باقری
+304	Masoud Pezeshkian	male	Tabriz		مسعود پزشکیان
+305	Gholam Hossein Elham		Andimeshk		غلامحسین الهام
+306	Hossein Mousavian	male	Kashan		حسین موسویان
+307	Mohammad Soleimani	male	Khesht		محمد سلیمانی
+308	Habibollah Peyman	male			حبیب‌الله پیمان
+309	Mohammad Reza Rahimi	male	Serishabad		محمدرضا رحیمی
+310	Mostafa Mohammad Najjar	male	Tehran		مصطفی محمدنجار
+311	Sayyid Ajjal Shams al Din Omar	male			سید اجل شمس‌الدین
+312	توران فتح‌الله‌زاده				توران فتح‌الله‌زاده
+313	Hasan Nazih	male			حسن نزیه
+314	Mohammad Taqi Bahar	male	Mashhad	Tehran	محمدتقی بهار
+315	Marzieh Vahid Dastjerdi	female	Tehran		مرضیه وحید دستجردی
+316	Ahmad Ahmadi (philosopher)	male			احمد احمدی
+317	Hamid Baqai	male			حمیدرضا بقایی
+318	Mostowfi ol Mamalek	male	Tehran	Tehran	حسن مستوفی
+319	Mohammad Khiabani	male			شیخ محمد خیابانی
+320	Mohammad Marandi	male			محمد مرندی
+321	Yadollah Sahabi	male	Tehran	Tehran	یدالله سحابی
+322	Mohammad Mofatteh	male			محمد مفتح
+323	Ismail Mumtaz	male			اسماعیل ممتاز
+324	Habibollah Asgaroladi	male	Tehran		حبیب‌الله عسگراولادی
+325	Hasan Arsanjani	male	Tehran		حسن ارسنجانی
+326	Mohammad Vali Khan Tonekaboni	male	Tonekabon	Tehran	محمدولی تنکابنی
+327	سید عبدالباقی شیرازی				سید عبدالباقی شیرازی
+328	Reza Taghipour	male	Maragheh		رضا تقی‌پور
+329	Kuchik Khan	male	Rasht	Khalkhal	میرزا کوچک خان جنگلی
+330	فؤاد روحانی				فؤاد روحانی
+331	علی‌اصغر حکمت			Tehran	علی‌اصغر حکمت
+332	Ruhollah Khatami	male			سید روح‌الله خاتمی
+333	Abdolhossein Teymourtash	male	Bojnord	Tehran	عبدالحسین تیمورتاش
+334	Mehdi Hashemi	male	Isfahan		سید مهدی هاشمی (پاسدار)
+335	Alireza Tahmasbi	male	Shiraz		علیرضا طهماسبی
+336	Ahmad Moftizadeh	male			احمد مفتی‌زاده
+337	Hamid Reza Assefi	male			حمیدرضا آصفی
+338	Kazem Seddiqi	male			کاظم صدیقی
+339	Effat Shariati	female	Mashhad		عفت شریعتی کوه بنانی
+340	Abdolreza Rahmani Fazli	male	Shirvan, Iran		عبدالرضا رحمانی فضلی
+341	Mohammad Ali Najafi	male	Tehran		محمدعلی نجفی (سیاست‌مدار)
+342	Morteza Mohammadkhan	male	Tehran		مرتضی محمدخان
+343	Gholamreza Ansari	male			غلامرضا انصاری
+344	علیرضا شیخ عطار				علیرضا شیخ عطار
+345	مهرانگیز دولت‌شاهی		Isfahan	Paris	مهرانگیز دولت‌شاهی
+346	سیروس آموزگار		Tehran		سیروس آموزگار
+347	Fatemeh Haghighatjoo	female			فاطمه حقیقت‌جو
+348	Ahmad Vahidi	male	Shiraz		احمد وحیدی
+349	Manutchehr Salimi	male			منوچهر سلیمی
+350	Sheikh Fazlollah Noori	male			شیخ فضل‌الله نوری
+351	Mohammadreza Nematzadeh	male	Tabriz		محمدرضا نعمت‌زاده
+352	Mehdi Ghazanfari		Aligudarz		مهدی غضنفری
+353	Hashem Sabbaghian	male	Tehran		هاشم صباغیان
+354	Navvab Safavi	male			سید مجتبی نواب صفوی
+355	Ali Akbar Davar	male	Tehran	Tehran	علی‌اکبر داور
+356	احمد دهقان (نماینده مجلس)				احمد دهقان
+357	Majid Namjoo	male	Kerman		مجید نامجو
+358	Shirin Ebadi	female	Hamedan		شیرین عبادی
+359	Ebrahim Asgharzadeh	male	Khash, Iran		ابراهیم اصغرزاده
+360	Taqi Arani	male			تقی ارانی
+361	Abdol Hossein Sardari	male	Tehran	Nottingham	عبدالحسین سرداری
+362	Eshaq Jahangiri	male	Sirjan		اسحاق جهانگیری
+363	Noureddin Kianouri	male			نورالدین کیانوری
+364	Reza Zanjani	male			سید رضا زنجانی
+365	Gholamreza Nikpey	male	Isfahan	Tehran	غلامرضا ن̩‌پی
+366	Ali Akbar Javanfekr	male	Tehran		علی‌اکبر جوانفکر
+367	Mohammad Kazem Shariatmadari	male			سید محمدکاظم شریعتمداری
+368	احمد ملکی				احمد ملکی
+369	Morteza Gholi Khan Hedayat	male	Tehran	Tehran	مرتضی‌قلی صنیع‌الدوله
+370	Div Sultan Rumlu	male			دیوسلطان
+371	Hassan Abbasi	male			حسن عباسی (تحلیلگر)
+372	Parviz Varjavand	male	Tehran	Tehran	پرویز ورجاوند
+373	Amir Abdollah Tahmasebi	male	Tehran	Borujerd	عبدالله امیرطهماسبی
+374	Ebrahim Yazdi	male	Qazvin		ابراهیم یزدی
+375	Hassan Taqizadeh	male	Tabriz	Tehran	حسن تقی‌زاده
+376	Rostam Ghasemi	male			رستم قاسمی
+377	Abbas Araghchi	male			سید عباس عراقچی
+378	Mostafa Chamran	male	Tehran		مصطفی چمران
+379	Hajj Mirza Aghasi	male	Maku, Iran		حاجی میرزا آقاسی
+380	Bahaedin Adab	male			بهاءالدین ادب
+381	Saad ad Daula	male		Isfahan	نجفقلی صمصام‌السلطنه
+382	Bāqer Khān	male	Tabriz	Qasr e Shirin	باقرخان
+383	Patrick Ali Pahlavi	male			علی پاتر̩ پهلوی
+384	حسن ‌أمیني				حسن امینی
+385	عباس امیری‌فر				عباس امیری‌فر
+386	محمد سریر				محمد سریر
+387	Fereydoon Hoveyda	male	Damascus	Clifton, Virginia	فریدون هویدا
+388	Mohammad Reza Khatami	male	Ardakan		سید محمدرضا خاتمی
+389	Hamid Reza Haji Babaee	male	Hamedan		حمیدرضا حاجی‌بابایی
+390	Azam Taleghani	female			اعظم طالقانی
+391	Behzad Nabavi	male	Tehran		بهزاد نبوی
+392	امیرقلی امینی				امیرقلی امینی
+393	Hamid Mowlana	male			حمید مولانا
+394	Sattar Khan	male		Tehran	ستارخان
+395	Mohammad Ali Jafari	male	Yazd		محمدعلی جعفری
+396	محمد میرزا کاشف‌السلطنه				محمد میرزا کاشف‌السلطنه
+397	Gholam Hossein Nozari	male	Kazerun		غلامحسین نوذری
+398	Mohammad Reyshahri	male	Rey, Iran		محمد ری‌شهری
+399	Parviz Kazemi	male	Tehran		پرویز کاظمی
+400	Abbas Maleki	male			عباس ملکی
+401	Alireza Noori	male			علیرضا نوری
+402	Mohammad Gharazi	male	Isfahan		سید محمد غرضی
+403	Jafar Sharif Emami	male	Tehran	New York City	جعفر شریف‌امامی
+404	Sadegh Ghotbzadeh	male	Isfahan	Tehran	صادق قطب‌زاده
+405	Hassan Rouhani	male	Sorkheh		حسن روحانی
+406	Mohammad Bagher Kharazi	male			سید محمدباقر خرازی
+407	Hossein Dehghan	male	Dehaqan		حسین دهقان
+408	محمدکاظم سجادپور				محمدکاظم سجادپور
+409	Kamal Habibollahi	male			کمال‌الدین میرحبیب‌اللهی
+410	Mohammad Mosaddegh	male	Tehran	Ahmadabad e Mosaddeq	محمد مصدق
+411	Sadegh Sharafkandi	male			صادق شرفکندی
+412	Mohammad Reza Bahonar	male	Kerman		محمدرضا باهنر
+413	Gholam Reza Azhari	male	Shiraz		غلامرضا ازهاری
+414	Akbar Torkan	male	Tehran		اکبر ترکان
+415	Reza Pahlavi	male	Tehran		رضا پهلوی (دوم)
+416	Esfandiar Rahim Mashaei	male			اسفندیار رحیم‌مشایی
+417	زکریا انصاری				زکریا انصاری
+418	Mirza Riza Khan				پرنس ارفع
+419	Mohammad Reza Aref	male	Yazd		محمدرضا عارف
+420	Ali Reza Khan Azod al Molk	male			عضدالملک
+421	Hassan Sobhani	male	Damghan		حسن سبحانی
+422	Ahmad Jannati	male	Isfahan		احمد جنتی
+423	Amirreza Amirbakhtiar	male	Ahvaz		امیررضا امیربختیار
+424	Nasrollah Entezam	male	Tehran	Tehran	نصرالله انتظام
+425	Mohammad Reza Eskandari		Ahvaz		محمدرضا اسکندری
+426	علی مصطفوی				علی مصطفوی
+427	Ali Kordan	male		Tehran	علی کردان
+428	Esmail Shooshtari	male	Nishapur		اسماعیل شوشتری
+429	Ali Motahari	male			علی مطهری
+430	Mehdi Karroubi	male	Aligudarz		مهدی کروبی
+431	Ali Mansur	male	Tehran	Tehran	علی منصور
+432	Hassan Pirnia	male	Tabriz	Tehran	حسن پیرنیا
+433	محمد فرهادی		Shahrud, Iran		محمد فرهادی
+434	Sadegh Khalkhali	male	Khalkhal, Ardabil	Tehran	صادق خلخالی
+435	Ali Nikzad	male	Ardabil		علی ن̩زاد
+436	Shivan Qaderi	male			کمال اسفرم
+437	Yousef Saanei	male			یوسف صانعی
+438	Sheikh Ali khan Zangeneh	male			شیخعلی‌خان زنگنه
+439	علی‌محمد بشارتی جهرمی		Jahrom		علی‌محمد بشارتی جهرمی
+440	Abolqasem Najm	male	Tehran	Tehran	ابوالقاسم نجم
+441	Ali Larijani	male	Najaf		علی لاریجانی
+442	حسین رسام				حسین رسام
+443	Samad Khan Momtaz os Saltaneh	male	Tehran	Paris	ممتاز السلطنه
+444	Abdol Majid Mirza				عین‌الدوله
+445	کاظم حسیبی				کاظم حسیبی
+446	Amir Abbas Hoveyda	male	Tehran	Tehran	امیرعباس هویدا
+447	حمیدرضا کاتوزیان				حمیدرضا کاتوزیان
+448	Ahmad Kashani	male			سید احمد کاشانی
+449	Farrokhroo Parsa	female	Qom	Tehran	فرخ‌رو پارسا
+450	سید ابراهیم رئیسی				سید ابراهیم رئیسی
+451	محمد تقی خان بختیاری				محمد تقی خان بختیاری
+452	Mohammad Javad Larijani	male	Najaf		محمدجواد لاریجانی
+453	Mahmudali Chehregani	male			محمودعلی چهرگانی
+454	Abdol Hossein Mirza Farmanfarma		Tabriz	Tehran	عبدالحسین میرزا فرمانفرما
+455	Abbas Ali Khalatbari	male	Tehran	Tehran	عباسعلی خلعتبری
+456	Mohammad Ali Ramin	male			محمدعلی رامین
+457	احمدرضوی				احمدرضوی
+458	Iraj Eskandari	male	Tehran	East Berlin	ایرج اسکندری
+459	لیلی امیرارجمند				لیلی امیرارجمند
+460	Mohsen Nourbakhsh	male	Isfahan	Tehran	محسن نوربخش
+461	Khazal al Kabi	male	Ahvaz	Tehran	شیخ خزعل
+462	Reza Qoli Khan Hedayat	male			رضاقلی‌خان هدایت
+463	Rafat Bayat	female	Zanjan, Iran		رفعت بیات
+464	Abdolvahed Mousavi Lari	male	Tehran		عبدالواحد موسوی لاری
+465	حسن قشقاوی				حسن قشقاوی
+466	Gholam Hossein Sadighi	male	Tehran	Tehran	غلامحسین صدیقی
+467	Mohammad Bagher Ghalibaf	male	Torqabeh		محمدباقر قالیباف
+468	Mohammed Sharif Malekzadeh	male			محمدشریف ملک‌زاده
+469	Abu Muslim Khorasani	male	Merv		ابومسلم خراسانی
+470	Simko Shikak	male			اسماعیل آقا سیمیتقو
+471	Abdollah Nouri	male	Isfahan		عبدالله نوری
+472	Abolfazl Fateh	male			ابوالفضل فاتح
+473	Mohammad Mousavi Khoeiniha	male	Qazvin		سید محمد موسوی خوئینی‌ها
+474	Mozzafar Baghai	male	Kerman	Tehran	مظفر بقائی
+475	Mohammad Javad Zarif	male	Tehran		محمدجواد ظریف
+476	حاج باباخان اردبیلی				حاج باباخان اردبیلی
+477	Hassan Shah Safi	male			حسن شاه‌صفی
+478	Sadegh Tabatabai	male	Qom		صادق طباطبایی
+479	Ebrahim Hakimi	male	Tabriz	Tehran	ابراهیم حکیمی
+480	Mohammad Beheshti	male	Isfahan	Tehran	سید محمد بهشتی
+481	Jamshid Amouzegar	male	Tehran		جمشید آموزگار
+482	Mir Hossein Mousavi	male	Khamaneh		میرحسین موسوی
+483	Kamran Daneshjoo	male	Damghan		کامران دانشجو
+484	جعفر مشیرالدوله				جعفر مشیرالدوله
+485	Mohammad Javad Bahonar	male	Kerman	Tehran	محمدجواد باهنر
+486	Kazem Rajavi	male	Tabas	Coppet	کاظم رجوی
+487	Davoud Ahmadinejad	male			داوود احمدی‌نژاد
+488	Hossein Fatemi	male	Nain, Iran	Tehran	حسین فاطمی
+489	علی اکبر فرازی				علی اکبر فرازی
+490	Abdolreza Mesri	male	Kermanshah		عبدالرضا مصری
+491	Jahangir Amuzegar	male			جهانگیر آموزگار
+492	Jamal Karimi Rad	male	Qazvin	Salafchegan	جمال کریمی‌راد
+493	Nasrin Soltankhah	female	Tehran		نسرین سلطان‌خواه
+494	محمد خزاعی		Kashmar		محمد خزاعی
+495	Hassan Nayebagha	male	Tehran		حسن نایب‌آقا
+496	احمد اقبال				احمد اقبال
+497	Ali Murad Davudi	male			علی‌مراد داودی

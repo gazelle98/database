@@ -1,0 +1,7 @@
+Bank(bcode, name, address)
+Branch(address, brid, bcode)
+Customer(first_name, last_name, cid, phone_no, address, brid)
+Account(acc_no, acc_type, balance, cid, brid)
+Loan(lid, amount, type, cid, brid)
+
+

@@ -1,0 +1,12 @@
+Team(tid, name, country, city, score, being_in_AFC_champions_league_status)
+League(year)
+Player(pid, name, age, nationality, role, is_captain, being_in_national_team_status)
+Injuries(date, pid)
+Coach(cid, name, age, tid, nationality)
+Game(gid, date, ggoal, hgoal)
+Playedin(pid, tid)
+Game_rel(guest_tid, host_tid, gid)
+
+
+
+
